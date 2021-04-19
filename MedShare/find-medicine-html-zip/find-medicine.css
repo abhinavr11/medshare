@@ -1,0 +1,241 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+.find-medicine {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 1044px;
+  padding: 67px 0;
+  width: 1440px;
+}
+.find-medicine .ellipse-571 {
+  height: 4px;
+  margin-bottom: 0.35px;
+  width: 4px;
+}
+.find-medicine .ellipse-572 {
+  height: 5px;
+  width: 5px;
+}
+.find-medicine .ellipse-573 {
+  height: 4px;
+  width: 3px;
+}
+.find-medicine .ellipse-574 {
+  height: 4px;
+  left: 4px;
+  position: absolute;
+  top: 2px;
+  width: 4px;
+}
+.find-medicine .ellipse-575 {
+  height: 3px;
+  left: 5px;
+  position: absolute;
+  top: 0px;
+  width: 3px;
+}
+.find-medicine .ellipse-576 {
+  height: 3px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 4px;
+}
+.find-medicine .ellipse-577 {
+  align-self: flex-start;
+  height: 4px;
+  width: 3px;
+}
+.find-medicine .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 155px;
+  width: 542px;
+}
+.find-medicine .flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: -0.81px;
+  min-height: 12px;
+  width: 13px;
+}
+.find-medicine .flex-col-2 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-left: 155px;
+  min-height: 162px;
+  width: 619px;
+}
+.find-medicine .flex-row {
+  align-items: flex-end;
+  display: flex;
+  height: 162px;
+  min-width: 1316px;
+}
+.find-medicine .flex-row-1 {
+  align-items: flex-end;
+  display: flex;
+  height: 7px;
+  margin-left: 1.75px;
+  min-width: 11px;
+}
+.find-medicine .frame-4 {
+  align-items: flex-start;
+  background-color: var(--purple-heart);
+  border-radius: 10px;
+  cursor: pointer;
+  display: flex;
+  height: 63px;
+  justify-content: flex-end;
+  margin-right: 2px;
+  min-width: 319px;
+  padding: 14px 61px;
+}
+.find-medicine .group-967 {
+  align-items: flex-start;
+  display: flex;
+  height: 12px;
+  left: 7px;
+  min-width: 20px;
+  position: absolute;
+  top: 33px;
+}
+.find-medicine .group-968 {
+  align-items: flex-start;
+  display: flex;
+  height: 45px;
+  justify-content: center;
+  min-width: 44px;
+}
+.find-medicine .group-996 {
+  align-items: flex-end;
+  display: flex;
+  height: 46px;
+  margin-left: 2px;
+  min-width: 358px;
+}
+.find-medicine .intersect {
+  height: 19px;
+  left: 5px;
+  position: absolute;
+  top: 29px;
+  width: 27px;
+}
+.find-medicine .med-share {
+  height: 47px;
+  margin-bottom: -0.42px;
+  margin-left: 28px;
+  width: 286px;
+}
+.find-medicine .overlap-group {
+  height: 50px;
+  margin-top: -2.48px;
+  position: relative;
+  width: 48px;
+}
+.find-medicine .overlap-group1 {
+  height: 6px;
+  left: 0px;
+  position: absolute;
+  top: 2px;
+  width: 8px;
+}
+.find-medicine .overlap-group2 {
+  align-self: flex-end;
+  height: 8px;
+  margin-bottom: -0.81px;
+  position: relative;
+  width: 8px;
+}
+.find-medicine .rectangle-2836 {
+  height: 32px;
+  left: 2px;
+  position: absolute;
+  top: 16px;
+  width: 30px;
+}
+.find-medicine .rectangle-2837 {
+  height: 46px;
+  left: 2px;
+  position: absolute;
+  top: 2px;
+  width: 44px;
+}
+.find-medicine .rectangle-2837-stroke {
+  height: 50px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 48px;
+}
+.find-medicine .rectangle-2838 {
+  background-color: var(--baby-powder);
+  height: 772px;
+  margin-right: 2px;
+  margin-top: 43px;
+  width: 1314px;
+}
+.find-medicine .request-medicine {
+  color: var(--white);
+  font-family: "Nunito-SemiBold", Helvetica;
+  font-size: 24px;
+  font-weight: 600;
+  letter-spacing: 0px;
+  min-height: 33px;
+}
+.find-medicine .subtract {
+  height: 45px;
+  left: 5px;
+  position: absolute;
+  top: 3px;
+  width: 41px;
+}
+.find-medicine .text-1 {
+  letter-spacing: 0px;
+  margin-top: 33px;
+  min-height: 66px;
+  text-align: right;
+  width: 619px;
+}
+.find-medicine .text-2 {
+  letter-spacing: 0px;
+  margin-top: 42px;
+  min-height: 66px;
+  width: 542px;
+}
+.find-medicine .vector-1225-stroke {
+  height: 8px;
+  left: 27px;
+  position: absolute;
+  top: 5px;
+  width: 8px;
+}
+.find-medicine .vector-1226-stroke {
+  height: 15px;
+  left: 20px;
+  position: absolute;
+  top: 5px;
+  width: 15px;
+}
+* {
+  box-sizing: border-box;
+}
+.nunito-semi-bold-mirage-24px {
+  color: var(--mirage);
+  font-family: var(--font-family-nunito-semibold);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 600;
+}
+:root {
+  --baby-powder: rgba(252, 252, 252, 1);
+  --font-family-nunito-semibold: "Nunito-SemiBold", Helvetica;
+  --font-size-l: 24px;
+  --mirage: rgba(20, 20, 42, 1);
+  --purple-heart: rgba(94, 46, 233, 1);
+  --white: rgba(255, 255, 255, 1);
+}
